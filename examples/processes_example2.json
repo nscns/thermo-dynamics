@@ -1,0 +1,4 @@
+[
+  {"type": "isochoric",  "final_var": "T", "final_value": 500,   "steps": 100},
+  {"type": "isothermal", "final_var": "P", "final_value": 100000,"steps": 120}
+]
